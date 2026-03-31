@@ -1,2 +1,4 @@
-# AICT-PORTFOLIO
+NAME: ALISHBA KHAN
+PROGRAM: BS ARTIFICIAL INTELLIGENCE
+SEMESTER: 1
 This repository is created for my ICT assignment.
